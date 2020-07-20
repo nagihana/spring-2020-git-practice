@@ -4,8 +4,6 @@ green
 blue
 pink
 orange
-bbbb
-ccc
-kkkk
-nnnn
-cccc
+green
+white
+yellow
