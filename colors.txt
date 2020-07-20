@@ -4,6 +4,3 @@ green
 blue
 pink
 orange
-green
-white
-yellow
