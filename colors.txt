@@ -3,6 +3,5 @@ black
 green
 blue
 pink
-orange
-bbbb
-ccc
+nnnn
+cccc
