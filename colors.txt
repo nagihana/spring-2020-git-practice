@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-abc
-def
-ggg
-ccc
-blue
-=======
+
 red
 black
 green
 blue
 pink
->>>>>>> 1c48480c424aadc6054c4affadbd20d6192c7853
