@@ -2,4 +2,4 @@ red
 pink
 green
 yellow
-pinkke
+pink
