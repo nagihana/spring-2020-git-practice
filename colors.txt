@@ -1,4 +1,5 @@
-abc
-def
-ggg
-ccc
+red
+black
+green
+blue
+pink
