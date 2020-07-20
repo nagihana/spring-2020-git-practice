@@ -6,12 +6,19 @@ Mercedes
 Audi
 Kia
 Tesla
+<<<<<<< Updated upstream
 Acura
+=======
+>>>>>>> Stashed changes
 BMW
 Honda
 Mazda
 Jaguar
 Bentley
+<<<<<<< Updated upstream
 Ferrari
 Nissan
 
+=======
+Nissan
+>>>>>>> Stashed changes
